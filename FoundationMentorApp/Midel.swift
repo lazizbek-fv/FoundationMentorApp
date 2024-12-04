@@ -13,4 +13,5 @@ struct Learner: Identifiable {
     var name: String
     var surname: String
     var favouriteColor: Color
+    
 }
