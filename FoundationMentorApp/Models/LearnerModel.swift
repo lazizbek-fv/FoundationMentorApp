@@ -12,6 +12,6 @@ struct Learner: Identifiable {
     var id: UUID = UUID()
     var name: String
     var surname: String
-    var favouriteColor: Color
+    var favoriteColor: Color
     
 }
